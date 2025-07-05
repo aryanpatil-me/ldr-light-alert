@@ -47,8 +47,4 @@ An Arduino project that triggers an alert when the light level drops below a thr
 ---
 
 ## Circuit Image
-
-*Add your circuit photo here by uploading `circuit.jpg` and linking it:*
-
-```markdown
-![Circuit Diagram](circuit.jpg)
+![circuit_diagram](https://github.com/user-attachments/assets/d4823b7e-f04f-4222-9cc6-4c81ba04516b)
