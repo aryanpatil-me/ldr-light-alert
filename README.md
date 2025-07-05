@@ -42,7 +42,7 @@ An Arduino project that triggers an alert when the light level drops below a thr
 
 ## Code Used
 
-See `ldr_alert_system.ino` in this repo.
+![https://github.com/aryanpatil-me/ldr-light-alert/blob/main/ldr_alert_system.ino](See `ldr_alert_system.ino` in this repo.)
 
 ---
 
