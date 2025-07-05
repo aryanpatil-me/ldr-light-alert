@@ -51,5 +51,13 @@ An Arduino project that triggers an alert when the light level drops below a thr
 
 ---
 
+## What I Learned
+- How to use a photoresistor (LDR) with Arduino
+- Implemented a **volatge divider circuit**
+- Used analogRead() for light detection
+- Controlled multiple outputs(buzzer, LEDs) based on analog input
+- Practiced clean wiring and real-time logic
+
+---
 Created by **Aryan Patil**
 
