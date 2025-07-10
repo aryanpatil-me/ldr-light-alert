@@ -1,8 +1,8 @@
 // Variables
 int LDRPin = A0;
-int greenPin = D7;
-int redPin = D6;
-int buzzPin = D5;
+int greenPin = 7;
+int redPin = 6;
+int buzzPin = 5;
 int LDRVal;
 int thresholdVal = 150;
 int delayTime = 250;
